@@ -1,0 +1,15 @@
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\obj\Debug\Chess.csproj.Chess.exe.config
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\ChessLogic.dll
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\FParsec.dll
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\FParsecCS.dll
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\FSharp.Core.dll
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\ChessLogic.xml
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\FParsec.xml
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\FParsecCS.xml
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Debug\FSharp.Core.xml

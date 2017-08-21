@@ -1,0 +1,6 @@
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Release\Chess.exe.config
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Release\Chess.exe
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\bin\Release\Chess.pdb
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\obj\Release\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\obj\Release\Chess.exe
+C:\Users\Hristian\Desktop\Projects\Chess\Chess\obj\Release\Chess.pdb
